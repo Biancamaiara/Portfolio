@@ -111,7 +111,7 @@ Error generating stack: `+a.message+`
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
- */const Kb=[["path",{d:"M18 6 6 18",key:"1bl5f8"}],["path",{d:"m6 6 12 12",key:"d8bk6v"}]],Qb=Ln("x",Kb);function Zb(){const[i,l]=yt.useState(!1),s=()=>l(!i);return Q.jsxs("header",{className:"fixed top-0 left-0 w-full bg-[#EBECF1]/80 backdrop-blur-md shadow-sm z-50",children:[Q.jsx("div",{className:"container mx-auto",children:Q.jsxs("nav",{className:"flex justify-between items-center py-4",children:[Q.jsxs("a",{href:"home",className:"font-[Abril_Fatface] text-[#7878AB] text-[60px] md:text-[80px] relative select-none leading-none",style:{fontFamily:"'Abril Fatface', serif",textShadow:`
+ */const Kb=[["path",{d:"M18 6 6 18",key:"1bl5f8"}],["path",{d:"m6 6 12 12",key:"d8bk6v"}]],Qb=Ln("x",Kb);function Zb(){const[i,l]=yt.useState(!1),s=()=>l(!i);return Q.jsxs("header",{className:"fixed top-0 left-0 w-full bg-[#EBECF1]/80 backdrop-blur-md shadow-sm z-50",children:[Q.jsx("div",{className:"container mx-auto",children:Q.jsxs("nav",{className:"flex justify-between items-center py-4",children:[Q.jsxs("a",{href:"Portfolio/#home",className:"font-[Abril_Fatface] text-[#7878AB] text-[60px] md:text-[80px] relative select-none leading-none",style:{fontFamily:"'Abril Fatface', serif",textShadow:`
                         3.77px 3.77px 7.55px rgba(255, 255, 255, 0.8),
                         3.77px 3.77px 7.55px rgba(0, 0, 0, 0.1)
                             `},children:["BM",Q.jsx("span",{className:"absolute inset-0",style:{color:"#8A7BCF",mixBlendMode:"multiply",filter:`
