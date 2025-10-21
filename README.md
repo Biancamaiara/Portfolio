@@ -6,9 +6,10 @@ Here I present my projects, technical skills, and a little about my journey as a
 
 ---
 
-## 🖼️ Demonstração
+## 🖼️ Demonstration
 
-🔗 **Acesse online:** [https://meuportfolio.com](https://meuportfolio.com)
+🔗 **Access online:** [See my online portfolio](https://biancamaiara.github.io/Portfolio/)
+
 
 ---
 
